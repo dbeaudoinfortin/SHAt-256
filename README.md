@@ -1,8 +1,6 @@
 # SHAt-256
 This project is a native Java implementation of the SHA-256 algorithm using a tree structure. It is intended for educational purposes and is not performant enough for practical applications. I originally built this in 2014 to gain a deeper understanding of how the SHA-2 algorithms work and the effects of each individual operation. In 2024 I decided to publish it on GitHub. Implementing it as a tree structure makes it easier to visualize the patterns of the operations and to learn the role of each one.
 
-(coming soon)
-
 ## How it works
 
 (coming soon)
